@@ -1,2 +1,4 @@
 # lekas-e-commerce-back-end
-Application to Mange Backend of E-Store
+Application to Manage Backend of E-Commerce
+
+This application requires that 
