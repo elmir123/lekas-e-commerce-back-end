@@ -1,6 +1,11 @@
 # lekas-e-commerce-back-end
 Application to Manage Backend of E-Commerce
 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![npm](https://img.shields.io/npm/v/npm?color=orange&logo=npm)
+![GitHub language count](https://img.shields.io/github/languages/count/elmir123/lekas-fitness-tracker?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/elmir123/lekas-fitness-tracker?color=orange)
+
 This application requires that you use Insomnia or Postman to make requests against the server.
 
 How to use it:
